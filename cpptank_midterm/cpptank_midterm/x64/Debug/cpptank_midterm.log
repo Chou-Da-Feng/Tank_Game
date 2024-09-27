@@ -1,0 +1,137 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\data_format.h(39,8): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(34,19): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(37,15): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(505,45): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(507,45): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(514,45): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(516,45): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(553,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(554,33): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(555,33): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(598,73): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(599,73): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(670,40): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(671,40): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(672,43): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(686,44): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(687,44): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(775,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(776,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(778,14): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(779,14): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(791,26): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(792,36): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(802,27): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(803,37): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(813,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(814,33): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(829,25): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(830,30): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(831,40): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(847,21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(848,26): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(849,36): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(856,17): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(857,26): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(858,36): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(871,22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(872,27): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(873,37): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(879,17): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(880,27): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(881,37): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(891,21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(892,26): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(893,36): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(907,19): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(908,30): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(909,40): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(923,22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(924,27): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(925,37): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(940,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(943,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(947,33): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(948,33): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(949,31): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(950,31): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(957,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(958,28): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(959,28): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(973,72): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(974,72): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1033,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1061,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1092,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1129,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1160,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1181,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1207,25): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1211,19): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1212,41): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1219,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1248,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1274,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1298,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1325,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1352,16): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1386,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1420,18): warning C4477: 'fscanf' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'int *'
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1415,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1416,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1417,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1418,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1419,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1420,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1421,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1422,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1423,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1424,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1425,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1433,50): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1435,50): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1437,50): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1439,37): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1453,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1454,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1455,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1456,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1457,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1469,19): warning C4477: 'fprintf' : 格式字串 '%f' 需要 'double' 類型的引數，但 variadic 引數 1 的類型為 'int'
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1464,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1484,18): warning C4477: 'fscanf' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'int *'
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1479,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1480,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1481,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1482,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1483,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1484,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1485,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1486,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1487,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1514,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1517,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1534,64): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1535,64): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1544,68): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1545,68): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1561,66): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1562,66): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1571,70): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1572,70): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1595,14): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1596,14): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1597,87): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1598,87): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Form1.cpp
+  game_lib.cpp
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\data_format.h(39,8): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\game_lib.cpp(28,20): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\game_lib.cpp(36,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  cpptank_midterm.vcxproj -> D:\C++_tank_game_project\cpptank_midterm\x64\Debug\cpptank_midterm.exe
