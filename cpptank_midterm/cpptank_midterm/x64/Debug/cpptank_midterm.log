@@ -1,6 +1,4 @@
-﻿  pch.cpp
-  AssemblyInfo.cpp
-  CppCLR_WinFormsProject.cpp
+﻿  CppCLR_WinFormsProject.cpp
 D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\data_format.h(39,8): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
 D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(34,19): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
 D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(37,15): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
@@ -126,12 +124,5 @@ D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1595,14): warni
 D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1596,14): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
 D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1597,87): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
 D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\Form1.h(1598,87): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
-  Form1.cpp
-  game_lib.cpp
-D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\data_format.h(39,8): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
-D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\game_lib.cpp(28,20): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
-D:\C++_tank_game_project\cpptank_midterm\cpptank_midterm\game_lib.cpp(36,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
-  正在產生程式碼...
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
   AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
   cpptank_midterm.vcxproj -> D:\C++_tank_game_project\cpptank_midterm\x64\Debug\cpptank_midterm.exe
